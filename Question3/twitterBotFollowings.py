@@ -1,3 +1,4 @@
+#Lists all the Followings of @boltiot
 import tweepy, time, sys
  
 #enter the corresponding information from your Twitter application:

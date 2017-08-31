@@ -1,3 +1,4 @@
+#Likes tweets with #IOT continuosly
 import tweepy, time, sys
  
 #enter the corresponding information from your Twitter application:

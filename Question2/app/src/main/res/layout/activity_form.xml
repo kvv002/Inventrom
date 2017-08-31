@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kritika.inventrom_android.FormActivity">
+
+    <ImageView
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:src="@drawable/iot"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+
+        />
+    <EditText
+        android:gravity="center"
+
+        android:layout_margin="5sp"
+        android:id="@+id/name"
+        android:textColor="#8B4513"
+        android:hint="Enter Username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:gravity="center"
+
+        android:layout_margin="5sp"
+        android:id="@+id/address"
+        android:textColor="#8B4513"
+        android:hint="Enter Age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:gravity="center"
+
+        android:layout_margin="5sp"
+        android:id="@+id/gender"
+        android:textColor="#8B4513"
+        android:hint="Enter Address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:gravity="center"
+
+        android:layout_margin="5sp"
+        android:id="@+id/age"
+        android:textColor="#8B4513"
+        android:hint="Enter Gender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="SUBMIT"
+        android:layout_gravity="center"
+        android:id="@+id/submit"
+        android:background="@color/colorAccent"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

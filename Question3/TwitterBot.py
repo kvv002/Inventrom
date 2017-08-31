@@ -1,3 +1,5 @@
+#Lists all the followers of @boltiot
+
 import tweepy, time, sys
  
 #argfile = str(sys.argv[1])

@@ -11,3 +11,5 @@ working:-
 
 not working:-
 Programmable Gradient Graph
+
+The repository for this app is 'Inventrom_Android' contains all the possible files related to this app.(whole Project)

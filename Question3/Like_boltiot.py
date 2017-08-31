@@ -1,3 +1,5 @@
+#Likes recents tweets of @boltiot
+
 import tweepy, time, sys
 import datetime
  
